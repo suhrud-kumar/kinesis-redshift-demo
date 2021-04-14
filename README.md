@@ -1,0 +1,1 @@
+# kinesis-redshift-demo
